@@ -1,0 +1,250 @@
+html{
+  background-color: white;
+}
+
+.start{
+  font-size:50px;
+  color:white;
+}
+
+.bby{
+  font-size:40px;
+  color: White;
+  display:flex;
+  align-self:flex-start;
+}
+
+p{
+  font-size: 20px;
+  color: white;
+}
+
+section{
+background-attachment:fixed;
+display:flex;
+flex-direction:column;
+justify-content:center;
+text-align: center;
+background-image: url("https://st2.depositphotos.com/5909840/8643/i/450/depositphotos_86439650-stock-photo-happy-sloth.jpg");
+width: 100%;
+height:600px;
+background-repeat: no-repeat;
+background-size: cover;
+margin: auto;
+}
+
+ul{
+  padding-top:20px;
+  padding-bottom:20px;
+  
+}
+
+.slothz{
+  background-color:black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  column-gap: 25px; 
+  display:flex;
+  justify-content:center;
+  
+}
+
+.column{
+  text-align:center;
+}
+
+.column p{
+  text-align:left;
+}
+
+.column img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.bby{
+  
+  align-self:center;
+}
+
+.endangered{
+  
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  column-gap: 25px;
+  color:white;
+  
+}
+
+.swinging{
+display: flex;
+  align-items: left;
+  padding-left: 30px;
+  padding-right: 30px;
+    
+}
+
+.endh{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+ 
+}
+
+.ending{
+  text-align: center;
+  padding: 50px;
+  background-color: white;
+  color: black;
+}
+
+.intro{
+  display:flex;
+  justify-content:center; 
+  flex-direction: column;
+  align-items: center;
+  background-color: grey;
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+.beginning{
+  color: black;
+  
+}
+
+.ctsloth{ 
+ width: 300px;
+  height: 300px;
+  object-fit: cover;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.firstp{
+  color: black;
+  font-size:20px;
+}
+
+.slow{
+  background-color:black;
+  padding-top:50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  
+}
+
+.ST{
+  font-size: 40px;
+}
+
+.secondp{
+  font-size: 20px;
+}
+
+.ending{
+  text-align: center;
+  padding: 50px;
+  background-color: white;
+  color: black;
+}
+
+.infopage{
+background-attachment:fixed;
+display:flex;
+flex-direction:column;
+justify-content:center;
+text-align: center;
+background-image: url("https://www.theslothinstitute.org/wp-content/uploads/2015/03/Unknown-5.jpeg");
+width: 100%;
+height:600px;
+background-repeat: no-repeat;
+background-size: cover;
+margin: auto;
+
+
+}
+.title{
+  color:white;
+  display:flex;
+  justify-content:center;
+  font-size: 50px
+}
+.more{
+  display:flex;
+justify-content:center;
+Background-color:grey;
+padding-top:50px;
+padding-bottom:50px;
+flex-direction:column; 
+}
+
+.letstalk{
+  color: white;
+  display:flex;
+  justify-content: center;
+}
+
+.ltp{
+  display: flex;
+  justify-content: center;
+  color:white;
+  font-size: 22px;
+}
+
+.list{
+  color:white;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  font-size:20px;
+}
+
+.anotherthing{
+  display:flex;
+  justify-content:center;
+  flex-direction: row;
+  background-color:black; 
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+}
+
+.flower{
+  padding-right: 30px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.flowerp{
+  color:white;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  text-align: right;
+  font-size: 20px;
+}
+
+.theend{
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+.bye{
+  color:Black;
+ display:flex;
+  justify-content: center;
+  align-items:center;
+}
