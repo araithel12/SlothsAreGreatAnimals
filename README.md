@@ -1,2 +1,2 @@
-# SlothsAreGreatAnimals
-Sloths are lazy but cute!
+Assignment 2 Using Frameworks
+My design is based of sloths
