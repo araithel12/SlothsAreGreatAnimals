@@ -104,6 +104,8 @@ display: flex;
   justify-content: center;
   flex-direction:column;
   align-items:center;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .why{
@@ -241,6 +243,8 @@ Background-color:grey;
 padding-top:50px;
 padding-bottom:50px;
 flex-direction:column; 
+padding-left: 30px;
+padding-right: 30px;
 }
 
 .letstalk{
@@ -299,6 +303,8 @@ flex-direction:column;
   padding-bottom: 50px;
   column-gap: 25px;
   color:white;
+  padding-left: 30px;
+  padding-right:30px;
  
 }
 
@@ -437,6 +443,7 @@ height:300px;
 
 .donation{
   text-align:center;
+  
 }
 	
 @media screen and (max-width:480px){
@@ -502,6 +509,12 @@ height:300px;
   
   
 }
+
+.more{
+  padding-left:16px;
+  padding-right:16px;
+  text-align:center;
+	}
 
 .matter{
   padding-top:50px;
